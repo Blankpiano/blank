@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/9A413050/asb13.unity
+  isLoaded: 1
+  isActive: 1
